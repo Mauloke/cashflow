@@ -1,0 +1,43 @@
+//export const ADD_PLACE ='ADD_PLACE';
+//export const DELETE_PLACE ='DELETE_PLACE';
+//export const SELECT_PLACE='SELECT_PLACE';
+//export const DESELECT_PLACE='DESELECT_PLACE';
+export const SET_PLACES = "SET_PLACES";
+export const REMOVE_PLACE = "REMOVE_PLACE";
+export const PLACE_ADDED = "PLACE_ADDED";
+export const START_ADD_PLACE = "START_ADD_PLACE";
+
+export const TRY_AUTH = 'TRY_AUTH';
+
+export const UI_START_LOADING= "UI_START_LOADING";
+export const UI_STOP_LOADING= "UI_STOP_LOADING"
+
+export const SIGN_IN = "SIGN_IN"
+
+export const SIGN_OUT = "SIGN_OUT"
+
+export const SET_MONTH = 'SET_MONTH'
+export const SET_PENGHASILAN = 'SET_PENGHASILAN'
+export const SET_PENGELUARAN = 'SET_PENGELUARAN'
+export const SET_TABUNGAN = 'SET_TABUNGAN'
+
+export const SET_EXIST = "SET_EXIST"
+export const SET_ACCOUNT = "SET_ACCOUNT"
+
+export const SET_ASETLANCAR = "SET_ASETLANCAR"
+export const SET_ASETGUNA = "SET_ASETGUNA"
+export const SET_ASETINVESTASI = "SET_ASETINVESTASI"
+export const SET_UTANG = "SET_UTANG"
+export const SET_MODAL = "SET_MODAL"
+
+export const UPDATE_ASETLANCAR = "UPDATE_ASETLANCAR"
+export const UPDATE_ASETGUNA = "UPDATE_ASETGUNA"
+export const UPDATE_ASETINVESTASI = "UPDATE_ASETINVESTASI"
+export const UPDATE_UTANG = "UPDATE_UTANG"
+export const UPDATE_MODAL = "UPDATE_MODAL"
+
+export const REMOVE_ACCOUNT = "REMOVE_ACCOUNT"
+export const RESET_ACCOUNT = "RESET_ACCOUNT"
+
+export const SET_TRANSACTION = "SET_TRANSACTION"
+
